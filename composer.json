@@ -1,0 +1,16 @@
+{
+    "name": "pay/orderpay",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gaolu",
+            "email": "396260278@qq.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Pay\\Orderpay\\": "src"
+      }
+    },
+    "require": {}
+}
